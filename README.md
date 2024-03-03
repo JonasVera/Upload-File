@@ -14,6 +14,13 @@ Executa o aplicativo no modo de desenvolvimento.<br />
 Open [http://localhost:3000](http://localhost:3000)  
  
  ## Tecnologia:
- - JavaScript
- - ReactJS
- - NodeJS
+ - Front End:
+  - JavaScript
+  - ReactJS
+  - NodeJS
+    
+ -Back-End:
+  - Java
+  - Spring Boot
+  - Minio
+  - S3
